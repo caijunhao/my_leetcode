@@ -1,2 +1,2 @@
 # repositry
-Just a test repository.
+No message
